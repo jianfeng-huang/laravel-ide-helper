@@ -25,9 +25,9 @@
         "barryvdh/reflection-docblock": "^2.0.6",
         "composer/class-map-generator": "^1.0",
         "doctrine/dbal": "^2.6 || ^3",
-        "illuminate/console": "^8 || ^9",
-        "illuminate/filesystem": "^8 || ^9",
-        "illuminate/support": "^8 || ^9",
+        "illuminate/console": "^8 || ^9 || ^10",
+        "illuminate/filesystem": "^8 || ^9 || ^10",
+        "illuminate/support": "^8 || ^9 || ^10",
         "nikic/php-parser": "^4.7",
         "phpdocumentor/type-resolver": "^1.1.0"
     },
